@@ -1,0 +1,15 @@
+C:\Users\pantera\Desktop\C#8\Doc\F2\bin\Debug\net6.0\F2.exe
+C:\Users\pantera\Desktop\C#8\Doc\F2\bin\Debug\net6.0\F2.deps.json
+C:\Users\pantera\Desktop\C#8\Doc\F2\bin\Debug\net6.0\F2.runtimeconfig.json
+C:\Users\pantera\Desktop\C#8\Doc\F2\bin\Debug\net6.0\F2.dll
+C:\Users\pantera\Desktop\C#8\Doc\F2\bin\Debug\net6.0\F2.pdb
+C:\Users\pantera\Desktop\C#8\Doc\F2\obj\Debug\net6.0\F2.csproj.AssemblyReference.cache
+C:\Users\pantera\Desktop\C#8\Doc\F2\obj\Debug\net6.0\F2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pantera\Desktop\C#8\Doc\F2\obj\Debug\net6.0\F2.AssemblyInfoInputs.cache
+C:\Users\pantera\Desktop\C#8\Doc\F2\obj\Debug\net6.0\F2.AssemblyInfo.cs
+C:\Users\pantera\Desktop\C#8\Doc\F2\obj\Debug\net6.0\F2.csproj.CoreCompileInputs.cache
+C:\Users\pantera\Desktop\C#8\Doc\F2\obj\Debug\net6.0\F2.dll
+C:\Users\pantera\Desktop\C#8\Doc\F2\obj\Debug\net6.0\refint\F2.dll
+C:\Users\pantera\Desktop\C#8\Doc\F2\obj\Debug\net6.0\F2.pdb
+C:\Users\pantera\Desktop\C#8\Doc\F2\obj\Debug\net6.0\F2.genruntimeconfig.cache
+C:\Users\pantera\Desktop\C#8\Doc\F2\obj\Debug\net6.0\ref\F2.dll
